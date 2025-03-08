@@ -41,15 +41,17 @@ git commit -m "first commit (added README.md with introduction).
 ```bash
 git push origin feature-update
 ```
+![Local work](./local.png)
 
 ### Create a pull request (PR)
 - In Github repository go to pull request tab.
 - click New pull request (or compare and pull request which appears immediately after making your commit).
 - Click Create pull request.
 
+![Create PR](./createPR.png)
+
 ### Merge the PR
 - Click merge pull request
 - Click confirm merge
 
-### Local Image
-![Local work](./local.png)
+![Confirm](./confirm.png)
